@@ -2,8 +2,6 @@
 
 An Instagram/WhatsApp-style story feature built with React and Tailwind CSS. Users can upload images that automatically expire after 24 hours, view stories in full-screen mode, and swipe through multiple stories.
 
-![Story Feature Demo](https://via.placeholder.com/800x400/3B82F6/ffffff?text=Story+Feature+Demo)
-
 ## ✨ Features
 
 - 📤 **Upload Stories** - Click the + button to upload images
@@ -17,7 +15,7 @@ An Instagram/WhatsApp-style story feature built with React and Tailwind CSS. Use
 
 ## 🚀 Demo
 
-[Live Demo](https://whaleeeyyyyy.github.io/24-Hour-Story)
+[Live Demo](https://whaleeeyyyyy.github.io/24-Hour-Story/)
 
 ## 🛠️ Technologies Used
 
